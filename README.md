@@ -1,7 +1,7 @@
 
 # **HvP Iran Cities Dropdown 🇮🇷**
 
-![Logo](assets/logo.png)
+![Logo](logo.png)
 
 **HvP Iran Cities Dropdown** یک افزونه ساده و کارآمد برای وردپرس است که امکان انتخاب داینامیک شهرها در ووکامرس را بر اساس استان‌های انتخابی ایران فراهم می‌کند.
 
@@ -81,7 +81,7 @@ GPLv2 یا بعد از آن – آزاد برای استفاده، تغییر و
 --------------------------------
 # HvP Iran Cities Dropdown 🇮🇷
 
-![Logo](assets/logo.png)
+![Logo](logo.png)
 
 **HvP Iran Cities Dropdown** is a simple and efficient WordPress plugin that enables dynamic city selection in WooCommerce based on selected Iranian provinces.
 
