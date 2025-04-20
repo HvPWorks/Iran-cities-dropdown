@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: HvP Iran Cities Dropdown
- * Plugin URI:  https://github.com/USERNAME/REPOSITORY_NAME
+ * Plugin URI:  https://github.com/HvPWorks/Iran-cities-dropdown
  * Description: نمایش داینامیک فیلد شهرها بر اساس استان انتخابی در ووکامرس و مرتب سازی فیلد استان ووکامرس بر اساس حروف الفبا(در بخش های پرداخت ، حساب کاربری ، حمل نقل)  
  * Version: 1.0
  * Author: HvP Works
